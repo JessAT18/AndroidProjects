@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="todo_title_hint">Enter Todo Title</string>
+    <string name="add_todo_button_text">Add Todo</string>
+    <string name="delete_done_todos_button_text">Delete done</string>
+    <string name="item_todo_text">Example</string>
+</resources>
